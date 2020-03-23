@@ -24,7 +24,7 @@ $(call inherit-product-if-exists, vendor/samsung/gta-common/gta-common-vendor.mk
 LOCAL_PATH := device/samsung/gta-common
 
 # System properties
--include $(LOCAL_PATH)/system_prop.mk
+-include $(LOCAL_PATH)/device_props.mk
 
 # Common overlay
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
