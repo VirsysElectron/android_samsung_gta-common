@@ -1,6 +1,3 @@
-# Release name
-PRODUCT_RELEASE_NAME := Samsung Galaxy Tab E
-
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1024
 TARGET_SCREEN_WIDTH := 768
