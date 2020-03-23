@@ -2,8 +2,8 @@
 PRODUCT_RELEASE_NAME := Samsung Galaxy Tab E
 
 # Boot animation
-TARGET_SCREEN_WIDTH := 800
-TARGET_SCREEN_HEIGHT := 1280
+TARGET_SCREEN_HEIGHT := 1024
+TARGET_SCREEN_WIDTH := 768
 
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_tablet_wifionly.mk)
